@@ -1,5 +1,9 @@
-var SubElement1;
-
-someFunc11() {
-    //some code    
+class SubElement1() {
+    constructor() {
+        // create smth
+    }
+    
+    someFunc11() {
+        //some code    
+    }
 }

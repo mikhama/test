@@ -1,9 +1,14 @@
-var HTMLElement;
+class HTMLElement {
 
-someFunc4() {
-    //some code    
-}
+    construct() {
+        // something
+    }
 
-someFunc10() {
-    //some code    
+    someFunc4() {
+        //some code    
+    }
+    
+    someFunc10() {
+        //some code    
+    }
 }

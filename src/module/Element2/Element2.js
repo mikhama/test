@@ -1,4 +1,6 @@
-var Element2;
+class Element2 {
+    // som ocde
+}
 
 someFunc1() {
     //some code    
